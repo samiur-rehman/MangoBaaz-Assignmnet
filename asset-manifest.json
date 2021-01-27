@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MangoBaaz-Assignmnet/static/css/main.05c00200.chunk.css",
+    "main.js": "/MangoBaaz-Assignmnet/static/js/main.3ecc7067.chunk.js",
+    "main.js.map": "/MangoBaaz-Assignmnet/static/js/main.3ecc7067.chunk.js.map",
+    "runtime-main.js": "/MangoBaaz-Assignmnet/static/js/runtime-main.a583a1b0.js",
+    "runtime-main.js.map": "/MangoBaaz-Assignmnet/static/js/runtime-main.a583a1b0.js.map",
+    "static/js/2.2eb9ef63.chunk.js": "/MangoBaaz-Assignmnet/static/js/2.2eb9ef63.chunk.js",
+    "static/js/2.2eb9ef63.chunk.js.map": "/MangoBaaz-Assignmnet/static/js/2.2eb9ef63.chunk.js.map",
+    "index.html": "/MangoBaaz-Assignmnet/index.html",
+    "static/css/main.05c00200.chunk.css.map": "/MangoBaaz-Assignmnet/static/css/main.05c00200.chunk.css.map",
+    "static/js/2.2eb9ef63.chunk.js.LICENSE.txt": "/MangoBaaz-Assignmnet/static/js/2.2eb9ef63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a583a1b0.js",
+    "static/js/2.2eb9ef63.chunk.js",
+    "static/css/main.05c00200.chunk.css",
+    "static/js/main.3ecc7067.chunk.js"
+  ]
+}
